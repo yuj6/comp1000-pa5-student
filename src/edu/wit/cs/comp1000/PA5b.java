@@ -3,7 +3,7 @@
 *	YOUR NAME HERE
 *
 *	COMP1000-XX  (XX is your session number)
-*	MM/DD/YYYY  (UPDATE THE DATE) 
+*	MM/DD/YYYY   (UPDATE THE DATE) 
 **********************************************************************
 *	Problem Description (UPDATE THE DESCRIPTION)
 *
